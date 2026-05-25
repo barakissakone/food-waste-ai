@@ -1,3 +1,21 @@
+# Environnement virtuel Python
 venv/
+
+# Cache Python
 __pycache__/
+
+# Fichiers Jupyter
 .ipynb_checkpoints/
+
+# Fichiers Python compilés
+*.pyc
+
+# Variables d'environnement
+.env
+
+# VS Code
+.vscode/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
